@@ -1,0 +1,27 @@
+.boldLabel {
+	font-size: 20px;
+	color: #FF0099;
+}
+
+.treeStyle {
+	border: 1px solid grey;
+	width: 300px;
+	min-height: 280px;
+	background-color: #F5F7F9;
+}
+
+.ui-dynatree-container {
+	width: 300px !important;
+	height: 280px !important;
+}
+
+.header2 {
+	margin-right: 500 px;
+	font-size: 16px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.buttonChart {
+	margin-left: 50px !important;
+}
